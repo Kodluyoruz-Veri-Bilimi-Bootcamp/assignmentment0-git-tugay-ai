@@ -1,4 +1,4 @@
-# git_basics
+﻿# git_basics
 * Basics of git
 
 ----
@@ -26,3 +26,6 @@
 * git push origin master
 
 ----
+
+DEĞİŞİKlik yapıyorumç
+Gitlemeye hazırım
